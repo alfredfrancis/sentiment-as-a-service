@@ -1,0 +1,6 @@
+flask
+textblob
+pandas
+vaderSentiment
+gunicorn
+requests
